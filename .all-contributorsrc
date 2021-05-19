@@ -36,7 +36,19 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "xun404",
+      "name": "I'm xun.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10024821?v=4",
+      "profile": "https://rmbz.net/",
+      "contributions": [
+        "bug",
+        "code",
+        "doc"
+      ]
     }
   ],
-  "repoType": "github"
+  "repoType": "github",
+  "commitConvention": "none"
 }

@@ -11,7 +11,9 @@
   <a href="https://github.com/prettier/prettier"><img alt="Code Style: Prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge"></a>
 </p>
 
-> 🌐 Google 翻译 Mac 客户端（这是 2.0 版本的分支）
+> 🌐 Google 翻译 Mac 客户端（这是 2.1 版本的分支）
+
+> 🥸 原仓已经很久没有更新，这里是 fork 仓，只要解决一些 BUG。
 
 ## 状态：公测版
 
@@ -33,6 +35,12 @@
 - [x] ~~自动更新~~
 - [x] 全局快捷键呼出
 - [x] 内置多种翻译引擎
+
+> 主要计划解决的问题
+
+- [ ] 修复失效接口，目前百度和有道接口均失效，将改为直接调用官方接口。
+- [ ] 谷歌接口替换为直接调用，不在过代理层。
+- [ ] 修复交互逻辑 bug。
 
 ## 下载
 
@@ -67,9 +75,19 @@ A：在终端中输入 `sudo spctl –master-disable` 然后按回车确认，�
 感谢这些美好的人 ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-| [<img src="https://avatars2.githubusercontent.com/u/20062482?v=4" width="100px;"/><br /><sub><b>さくら</b></sub>](https://qwq.cat)<br />[💻](https://github.com/xun404/GoogleTranslate/commits?author=u3u "Code") [📖](https://github.com/xun404/GoogleTranslate/commits?author=u3u "Documentation") [🎨](#design-u3u "Design") [🤔](#ideas-u3u "Ideas, Planning, & Feedback") | [<img src="https://avatars1.githubusercontent.com/u/9591690?v=4" width="100px;"/><br /><sub><b>Batur</b></sub>](https://github.com/Batur24)<br />[💬](#question-Batur24 "Answering Questions") [🐛](https://github.com/xun404/GoogleTranslate/issues?q=author%3ABatur24 "Bug reports") [🤔](#ideas-Batur24 "Ideas, Planning, & Feedback") [⚠️](https://github.com/xun404/GoogleTranslate/commits?author=Batur24 "Tests") | [<img src="https://avatars3.githubusercontent.com/u/3841872?v=4" width="100px;"/><br /><sub><b>mantou</b></sub>](https://github.com/mantou132)<br />[💻](https://github.com/xun404/GoogleTranslate/commits?author=mantou132 "Code") [🤔](#ideas-mantou132 "Ideas, Planning, & Feedback") |
-| :---: | :---: | :---: |
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://qwq.cat"><img src="https://avatars2.githubusercontent.com/u/20062482?v=4?s=100" width="100px;" alt=""/><br /><sub><b>さくら</b></sub></a><br /><a href="https://github.com/MoeFE/GoogleTranslate/commits?author=u3u" title="Code">💻</a> <a href="https://github.com/MoeFE/GoogleTranslate/commits?author=u3u" title="Documentation">📖</a> <a href="#design-u3u" title="Design">🎨</a> <a href="#ideas-u3u" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/Batur24"><img src="https://avatars1.githubusercontent.com/u/9591690?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Batur</b></sub></a><br /><a href="#question-Batur24" title="Answering Questions">💬</a> <a href="https://github.com/MoeFE/GoogleTranslate/issues?q=author%3ABatur24" title="Bug reports">🐛</a> <a href="#ideas-Batur24" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/MoeFE/GoogleTranslate/commits?author=Batur24" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/mantou132"><img src="https://avatars3.githubusercontent.com/u/3841872?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mantou</b></sub></a><br /><a href="https://github.com/MoeFE/GoogleTranslate/commits?author=mantou132" title="Code">💻</a> <a href="#ideas-mantou132" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://rmbz.net/"><img src="https://avatars.githubusercontent.com/u/10024821?v=4?s=100" width="100px;" alt=""/><br /><sub><b>I'm xun.</b></sub></a><br /><a href="https://github.com/MoeFE/GoogleTranslate/issues?q=author%3Axun404" title="Bug reports">🐛</a> <a href="https://github.com/MoeFE/GoogleTranslate/commits?author=xun404" title="Code">💻</a> <a href="https://github.com/MoeFE/GoogleTranslate/commits?author=xun404" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
