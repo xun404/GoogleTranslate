@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/MoeFE/GoogleTranslate">
-    <img alt="Google Translate" src="https://i.loli.net/2018/07/01/5b38a1b1dcc25.png" width="600">
+  <a href="https://github.com/xun404/GoogleTranslate">
+    <img alt="Google Translate" src="https://cdn.jsdelivr.net/gh/xun404/GoogleTranslate@main/.readme/5b38a1b1dcc25.png" width="600">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MoeFE/GoogleTranslate/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/MoeFE/GoogleTranslate.svg?style=for-the-badge"></a>
-  <a href="https://travis-ci.org/MoeFE/GoogleTranslate"><img alt="Build Status" src="https://img.shields.io/travis/MoeFE/GoogleTranslate/dev.svg?style=for-the-badge"></a>
+  <a href="https://github.com/xun404/GoogleTranslate/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/xun404/GoogleTranslate.svg?style=for-the-badge"></a>
+  <a href="https://travis-ci.org/xun404/GoogleTranslate"><img alt="Build Status" src="https://img.shields.io/travis/xun404/GoogleTranslate/dev.svg?style=for-the-badge"></a>
   <a href="./LICENSE"><img alt="LICENSE GPL" src="https://img.shields.io/badge/license-gpl-yellow.svg?style=for-the-badge"></a>
   <a href="https://github.com/prettier/prettier"><img alt="Code Style: Prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge"></a>
 </p>
@@ -16,13 +16,13 @@
 ## 状态：公测版
 
 所有已知问题都已经修复，并优化了用户体验，但可能依然有少量 BUG。  
-如果你在使用中发现了问题，请在[这里](https://github.com/MoeFE/GoogleTranslate/issues/new)报告问题，非常感谢！
+如果你在使用中发现了问题，请在[这里](https://github.com/xun404/GoogleTranslate/issues/new)报告问题，非常感谢！
 
 ## 预览
 
-<img alt="预览动态图" src="https://i.loli.net/2018/07/17/5b4dfbda30200.gif" width="420">
-<img alt="更改语言" src="https://i.loli.net/2018/07/17/5b4dfc253a5d7.png" width="420">
-<img alt="应用程序设置" src="https://i.loli.net/2018/07/17/5b4dfc25357a1.png" width="420">
+<img alt="预览动态图" src="https://cdn.jsdelivr.net/gh/xun404/GoogleTranslate@main/.readme/5b4dfbda30200.gif" width="420">
+<img alt="更改语言" src="https://cdn.jsdelivr.net/gh/xun404/GoogleTranslate@main/.readme/5b4dfc253a5d7.png" width="420">
+<img alt="应用程序设置" src="https://cdn.jsdelivr.net/gh/xun404/GoogleTranslate@main/.readme/5b4dfc25357a1.png" width="420">
 
 ## 功能
 
@@ -36,7 +36,7 @@
 
 ## 下载
 
-您可以在[这里](https://github.com/MoeFE/GoogleTranslate/releases/latest)手动下载最新版本
+您可以在[这里](https://github.com/xun404/GoogleTranslate/releases/latest)手动下载最新版本
 
 ## FAQ
 
@@ -68,7 +68,7 @@ A：在终端中输入 `sudo spctl –master-disable` 然后按回车确认，�
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars2.githubusercontent.com/u/20062482?v=4" width="100px;"/><br /><sub><b>さくら</b></sub>](https://qwq.cat)<br />[💻](https://github.com/MoeFE/GoogleTranslate/commits?author=u3u "Code") [📖](https://github.com/MoeFE/GoogleTranslate/commits?author=u3u "Documentation") [🎨](#design-u3u "Design") [🤔](#ideas-u3u "Ideas, Planning, & Feedback") | [<img src="https://avatars1.githubusercontent.com/u/9591690?v=4" width="100px;"/><br /><sub><b>Batur</b></sub>](https://github.com/Batur24)<br />[💬](#question-Batur24 "Answering Questions") [🐛](https://github.com/MoeFE/GoogleTranslate/issues?q=author%3ABatur24 "Bug reports") [🤔](#ideas-Batur24 "Ideas, Planning, & Feedback") [⚠️](https://github.com/MoeFE/GoogleTranslate/commits?author=Batur24 "Tests") | [<img src="https://avatars3.githubusercontent.com/u/3841872?v=4" width="100px;"/><br /><sub><b>mantou</b></sub>](https://github.com/mantou132)<br />[💻](https://github.com/MoeFE/GoogleTranslate/commits?author=mantou132 "Code") [🤔](#ideas-mantou132 "Ideas, Planning, & Feedback") |
+| [<img src="https://avatars2.githubusercontent.com/u/20062482?v=4" width="100px;"/><br /><sub><b>さくら</b></sub>](https://qwq.cat)<br />[💻](https://github.com/xun404/GoogleTranslate/commits?author=u3u "Code") [📖](https://github.com/xun404/GoogleTranslate/commits?author=u3u "Documentation") [🎨](#design-u3u "Design") [🤔](#ideas-u3u "Ideas, Planning, & Feedback") | [<img src="https://avatars1.githubusercontent.com/u/9591690?v=4" width="100px;"/><br /><sub><b>Batur</b></sub>](https://github.com/Batur24)<br />[💬](#question-Batur24 "Answering Questions") [🐛](https://github.com/xun404/GoogleTranslate/issues?q=author%3ABatur24 "Bug reports") [🤔](#ideas-Batur24 "Ideas, Planning, & Feedback") [⚠️](https://github.com/xun404/GoogleTranslate/commits?author=Batur24 "Tests") | [<img src="https://avatars3.githubusercontent.com/u/3841872?v=4" width="100px;"/><br /><sub><b>mantou</b></sub>](https://github.com/mantou132)<br />[💻](https://github.com/xun404/GoogleTranslate/commits?author=mantou132 "Code") [🤔](#ideas-mantou132 "Ideas, Planning, & Feedback") |
 | :---: | :---: | :---: |
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
